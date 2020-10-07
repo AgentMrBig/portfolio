@@ -13,7 +13,7 @@ function App() {
 
   const renderContent = () => (
     <>
-      <div className="Parallax__content_heading">
+      <div className="Parallax__content__heading">
         <h1 className="Parallax__content__heading__text">Closure</h1>
         <h2 className="Parallax__content__heading__caption">
           This is a good heading caption yeahhh!
