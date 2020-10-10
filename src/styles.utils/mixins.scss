@@ -1,0 +1,13 @@
+@mixin flexCon{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  align-content: flex-start;
+}
+
+
+@mixin listNoStyle{
+  text-decoration: none;
+  list-style-type: none;
+}
